@@ -277,18 +277,18 @@ if '__main__'== __name__:
 
 
 # [[0.01667206 0.98332787]] f vs f                 #correct prediction 
-# [[9.9943298e-01 5.6698837e-04]] A vs A            #correct prediction 
-# [[0.99369895 0.006301  ]] A vs f                  #wrong prediction 
-# [[0.03356597 0.96643406]] f vs f                   #correct prediction 
-# [[9.9982953e-01 1.7040595e-04]] A vs A             #correct prediction 
-# [[0.92333275 0.07666729]] A vs A                    #correct prediction 
-# [[0.99537885 0.0046212 ]] A vs A                    #correct prediction 
-# [[0.87899536 0.12100458]] A vs A                     #correct prediction 
-# [[0.0096073 0.9903927]] f vs f                       #correct prediction 
-# [[0.998933   0.00106699]] A vs A                     #correct prediction 
-# [[9.9962020e-01 3.7983368e-04]] A vs A               #correct prediction 
-# [[0.00233427 0.99766576]] f vs f                      #correct prediction 
-# [[0.99573046 0.00426953]] A vs A                       #correct prediction 
+# [[9.9943298e-01 5.6698837e-04]] A vs A           #correct prediction 
+# [[0.99369895 0.006301  ]] A vs f                    #wrong prediction 
+# [[0.03356597 0.96643406]] f vs f                 #correct prediction 
+# [[9.9982953e-01 1.7040595e-04]] A vs A           #correct prediction 
+# [[0.92333275 0.07666729]] A vs A                 #correct prediction 
+# [[0.99537885 0.0046212 ]] A vs A                 #correct prediction 
+# [[0.87899536 0.12100458]] A vs A                 #correct prediction 
+# [[0.0096073 0.9903927]] f vs f                   #correct prediction 
+# [[0.998933   0.00106699]] A vs A                 #correct prediction 
+# [[9.9962020e-01 3.7983368e-04]] A vs A           #correct prediction 
+# [[0.00233427 0.99766576]] f vs f                 #correct prediction 
+# [[0.99573046 0.00426953]] A vs A                 #correct prediction 
 
 
 
